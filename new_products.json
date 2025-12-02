@@ -1,0 +1,6 @@
+{
+  "items":[
+    {"name":"Jeans","price":40,"size":"L"},
+    {"name":"Jacket","price":80,"size":"M"}
+  ]
+}
